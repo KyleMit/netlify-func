@@ -1,0 +1,14 @@
+{
+    "name": "@kylemit/netlify-func",
+    "version": "1.0.0",
+    "description": "test repo for debugging netlify functions",
+    "main": "index.js",
+    "scripts": {
+        "serve": "netlify dev"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "netlify-cli": "^2.62.0"
+    }
+}
