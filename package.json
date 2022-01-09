@@ -4,7 +4,8 @@
     "description": "test repo for debugging netlify functions",
     "main": "index.js",
     "scripts": {
-        "serve": "netlify dev"
+        "serve": "netlify dev",
+        "debug": "netlify dev --inspect"
     },
     "author": "",
     "license": "ISC",
